@@ -37,7 +37,11 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,git,nodejs,python,javascript,java,mysql,spring,flutter&perline=8" /<br>
+    <a href="https://github.com/danielnavasbecerra">
+        <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma"/>
+        <img src="https://skillicons.dev/icons?i=git,nodejs,python,javascript,java,mysql,spring,flutter"/>
+        <br>
+    </a>
 </div>
 
 <br/>
