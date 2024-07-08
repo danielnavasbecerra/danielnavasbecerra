@@ -40,7 +40,7 @@
     <a href="https://github.com/danielnavasbecerra">
         <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma"/>
         <img src="https://skillicons.dev/icons?i=git,nodejs,python,javascript,java,mysql,spring,flutter"/>
-        <br>
+        <br/>
     </a>
 </div>
 
